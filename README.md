@@ -1,6 +1,6 @@
 # Hi there I'm Kranthi kumar kadinti 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm a Fontend  Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 ## About Me
 - 🧑‍💻 Full Stack Developer
