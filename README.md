@@ -1,4 +1,4 @@
-# Hi there I'm Kranthi kumar kadinti 👋
+# Hi here I'm Kranthi kumar kadinti 👋
 
 Welcome to my GitHub profile! I'm a Front-end  React JS Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML5, CSS3, JavaScript, React JS, Bootstrap, Node.js, Express.js  I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
